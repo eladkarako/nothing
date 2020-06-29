@@ -1,0 +1,4 @@
+C:\Users\Elad\Documents\SharpDevelop Projects\nothing\nothing\bin\Release\nothing.exe.config
+C:\Users\Elad\Documents\SharpDevelop Projects\nothing\nothing\bin\Release\nothing.exe
+C:\Users\Elad\Documents\SharpDevelop Projects\nothing\nothing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Elad\Documents\SharpDevelop Projects\nothing\nothing\obj\Release\nothing.exe

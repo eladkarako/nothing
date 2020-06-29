@@ -1,0 +1,16 @@
+*.exe            binary
+
+
+*.txt            text    eol=crlf
+
+*.text           text    eol=crlf
+
+*.cs             text    eol=crlf
+
+*.csproj         text    eol=crlf
+
+*.sln            text    eol=crlf
+
+*.config         text    eol=crlf
+
+README.md                eol=crlf
